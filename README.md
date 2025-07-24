@@ -69,5 +69,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/kunalsahu566/kunalsahu566/blob/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
