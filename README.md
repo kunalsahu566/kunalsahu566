@@ -1,12 +1,20 @@
-<!--
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kunal Sahu!" alt="HELLO SECTION">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kunal+Sahu!" alt="HELLO SECTION">
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="animated-welcome">
+</p>
 
-<h3 align="center"> <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20">  Data Ana   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="20">  FullStack Enthusiast </h3>
 
-<div align="center"><p> <img src="https://komarev.com/ghpvc/?username=Abhishek-Verma0&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-verma0" /> </p></div>
+
+<h3 align="center"> <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="40">  Data Analytics  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="40">  Machine Learning Enthusiast </h3>
+
 <div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=kunalsahu566&label=Profile%20views&color=0e75b6&style=flat" alt="kunalsahu566" />
+  </p>
+</div>
+
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Verma0&theme=algolia&title=Followers,Stars,Repositories,Commits,PullRequest,Experience&column=6&margin-w=15&margin-h=15" alt="abhishek-verma0" /></a> </p>
 </div>
