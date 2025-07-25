@@ -50,7 +50,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kunalsahu566&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Dev Quote
+### ✍️ Quote
 > **"Talk is cheap. Show me the code."
 > – Linus Torvalds**
 
