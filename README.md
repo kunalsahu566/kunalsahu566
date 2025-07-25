@@ -16,8 +16,11 @@
 </div>
 
 
-<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Verma0&theme=algolia&title=Followers,Stars,Repositories,Commits,PullRequest,Experience&column=6&margin-w=15&margin-h=15" alt="abhishek-verma0" /></a> </p>
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kunalsahu566&theme=algolia&title=Followers,Stars,Repositories,Commits,PullRequest,Experience&column=6&margin-w=15&margin-h=15" alt="kunalsahu566" />
+  </a>
+</p>
 
 
 ## 🌐 Socials:
